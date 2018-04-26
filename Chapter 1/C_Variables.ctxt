@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ \ \ \ public\ static\ void\ main\ (String\ args[])\n\ \ \ \ {\n\ \ \ \ \ \ \ \ int\ weightOfAPerson\ \=\ 150;\n\ \ \ \ \ \ \ \ int\ elevatorWeightLimit\ \=\ 1400;\n\ \ \ \ \ \ \ \ int\ numberOfPeople\ \=\ elevatorWeightLimit/weightOfAPerson;\n\ \ \ \ \ \ \ \ System.out.println(numberOfPeople);\n\ \ \ \ }\n
+numComments=1
